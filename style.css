@@ -283,10 +283,10 @@ ul li {
     padding-top: 50px;
   }
   
- 
+ .fact{padding:20px !important}
  
  .about {
-padding: 50px;
+padding: 20px !important;
 }
 
 .overview-left ul{
@@ -303,7 +303,7 @@ padding: 50px;
 }
 
 .price{
-padding: 20px;
+padding: 20px !important;
   flex-wrap: wrap;
 }
 
