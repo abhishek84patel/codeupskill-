@@ -270,9 +270,10 @@ ul li {
   padding: 20px !important;
   }
   .overview{
+
     height: fit-content;
     gap: 72;
-    padding: 50px;
+    padding: 20px;
     overflow: hidden;
     justify-content: normal;
   }
@@ -284,7 +285,9 @@ ul li {
   
  
  
- 
+ .about {
+padding: 50px;
+}
 
 .overview-left ul{
   /* justify-content: center; */
@@ -300,6 +303,7 @@ ul li {
 }
 
 .price{
+padding: 20px;
   flex-wrap: wrap;
 }
 
